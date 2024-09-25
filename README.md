@@ -20,4 +20,3 @@ Technologies Used:
     CSS
     JavaScript
     Chrome Extensions API
->>>>>>> efd998310813849ff8e67749bceed5d77bd4a86f
